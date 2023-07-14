@@ -17,3 +17,4 @@ class Store extends Model
     }
     
 }
+//here store id is the foreign key and regions id is local key
